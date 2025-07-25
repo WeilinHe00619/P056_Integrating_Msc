@@ -1,0 +1,7 @@
+﻿Gene_Set,Description,Gene_Count,GO_BP_Terms,KEGG_Pathways,Top_GO_Term,Top_KEGG_Pathway
+miRNA_Inhibition,miRNA inhibition regulated genes,64,0,1,,JAK-STAT signaling pathway
+miRNA_Derepression,miRNA derepression regulated genes,122,3,3,Regulation Of Blood Coagulation (GO:0030193),Complement and coagulation cascades
+Methylation_Repression,Methylation repression genes,30,0,0,,
+Demethylation_Activation,Demethylation activation genes,36,15,1,Connective Tissue Development (GO:0061448),Glycosaminoglycan degradation
+Dual_Regulated,Dual regulated key genes,65,4,0,Regulation Of Blood Coagulation (GO:0030193),
+VitaminB12_Related,Vitamin B12 related genes,1,0,0,,

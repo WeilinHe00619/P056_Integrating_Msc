@@ -1,0 +1,187 @@
+﻿Gene_Symbol,Regulating_miRNA_Count,miRNA_Directions,Gene_Direction,Gene_LogFC,Regulation_Types,Evidence_Types,Regulation_Summary,Functional_Category
+RABGAP1L,20,Up-regulated,Down-regulated,-0.665,Consistent_Inhibition,Predicted; Validated,20 miRNAs → Down-regulated (FC: -0.665),Inhibition
+RIPOR2,20,Up-regulated,Down-regulated,-1.033,Consistent_Inhibition,Predicted; Validated,20 miRNAs → Down-regulated (FC: -1.033),Inhibition
+SLC38A1,19,Up-regulated,Down-regulated,-0.883,Consistent_Inhibition,Predicted; Validated,19 miRNAs → Down-regulated (FC: -0.883),Inhibition
+INPP5F,16,Up-regulated,Down-regulated,-0.529,Consistent_Inhibition,Predicted; Validated,16 miRNAs → Down-regulated (FC: -0.529),Inhibition
+KIAA0319,15,Up-regulated,Down-regulated,-1.521,Consistent_Inhibition,Predicted,15 miRNAs → Down-regulated (FC: -1.521),Inhibition
+TAB3,15,Up-regulated,Down-regulated,-0.635,Consistent_Inhibition,Predicted; Validated,15 miRNAs → Down-regulated (FC: -0.635),Inhibition
+AFF1,15,Up-regulated,Down-regulated,-1.025,Consistent_Inhibition,Predicted,15 miRNAs → Down-regulated (FC: -1.025),Inhibition
+SLC6A2,15,Up-regulated,Down-regulated,-1.535,Consistent_Inhibition,Predicted,15 miRNAs → Down-regulated (FC: -1.535),Inhibition
+ZNF507,14,Up-regulated,Down-regulated,-0.543,Consistent_Inhibition,Predicted; Validated,14 miRNAs → Down-regulated (FC: -0.543),Inhibition
+TREML2,14,Up-regulated,Down-regulated,-1.865,Consistent_Inhibition,Predicted,14 miRNAs → Down-regulated (FC: -1.865),Inhibition
+AGPAT5,14,Up-regulated,Down-regulated,-0.918,Consistent_Inhibition,Predicted,14 miRNAs → Down-regulated (FC: -0.918),Inhibition
+CYP19A1,14,Up-regulated,Down-regulated,-1.344,Consistent_Inhibition,Predicted,14 miRNAs → Down-regulated (FC: -1.344),Inhibition
+TTBK2,13,Up-regulated,Down-regulated,-0.85,Consistent_Inhibition,Predicted,13 miRNAs → Down-regulated (FC: -0.850),Inhibition
+CGB7,13,Up-regulated,Down-regulated,-1.776,Consistent_Inhibition,Predicted,13 miRNAs → Down-regulated (FC: -1.776),Inhibition
+LEP,12,Up-regulated,Down-regulated,-2.571,Consistent_Inhibition,Predicted,12 miRNAs → Down-regulated (FC: -2.571),Inhibition
+FKBP5,12,Down-regulated,Up-regulated,1.114,Consistent_Derepression,Predicted; Validated,12 miRNAs → Up-regulated (FC: 1.114),Derepression
+FAM167A,12,Up-regulated,Down-regulated,-1.405,Consistent_Inhibition,Predicted; Validated,12 miRNAs → Down-regulated (FC: -1.405),Inhibition
+CEP85,12,Up-regulated,Down-regulated,-0.978,Consistent_Inhibition,Predicted,12 miRNAs → Down-regulated (FC: -0.978),Inhibition
+SIX4,12,Up-regulated,Down-regulated,-0.764,Consistent_Inhibition,Predicted; Validated,12 miRNAs → Down-regulated (FC: -0.764),Inhibition
+NTRK2,11,Down-regulated,Up-regulated,1.822,Consistent_Derepression,Predicted,11 miRNAs → Up-regulated (FC: 1.822),Derepression
+ZBTB16,11,Down-regulated,Up-regulated,1.28,Consistent_Derepression,Predicted; Validated,11 miRNAs → Up-regulated (FC: 1.280),Derepression
+LIMCH1,10,Up-regulated,Down-regulated,-1.057,Consistent_Inhibition,Predicted,10 miRNAs → Down-regulated (FC: -1.057),Inhibition
+CCN4,10,Down-regulated,Up-regulated,1.135,Consistent_Derepression,Predicted,10 miRNAs → Up-regulated (FC: 1.135),Derepression
+GREM2,10,Up-regulated,Down-regulated,-1.109,Consistent_Inhibition,Predicted,10 miRNAs → Down-regulated (FC: -1.109),Inhibition
+TPBG,10,Up-regulated,Down-regulated,-0.849,Consistent_Inhibition,Predicted,10 miRNAs → Down-regulated (FC: -0.849),Inhibition
+ZBTB8A,10,Down-regulated,Up-regulated,0.686,Consistent_Derepression,Predicted; Validated,10 miRNAs → Up-regulated (FC: 0.686),Derepression
+SHISA9,10,Down-regulated,Up-regulated,20.753,Consistent_Derepression,Predicted,10 miRNAs → Up-regulated (FC: 20.753),Derepression
+A1CF,10,Down-regulated,Up-regulated,18.84,Consistent_Derepression,Predicted,10 miRNAs → Up-regulated (FC: 18.840),Derepression
+AVPR1B,10,Up-regulated,Down-regulated,-16.522,Consistent_Inhibition,Predicted,10 miRNAs → Down-regulated (FC: -16.522),Inhibition
+ANKRD62,10,Up-regulated,Down-regulated,-30.0,Consistent_Inhibition,Predicted; Validated,10 miRNAs → Down-regulated (FC: -30.000),Inhibition
+GNE,9,Up-regulated,Down-regulated,-0.865,Consistent_Inhibition,Predicted,9 miRNAs → Down-regulated (FC: -0.865),Inhibition
+KCNK10,9,Down-regulated,Up-regulated,19.728,Consistent_Derepression,Predicted,9 miRNAs → Up-regulated (FC: 19.728),Derepression
+TFPI,9,Up-regulated,Down-regulated,-1.132,Consistent_Inhibition,Predicted,9 miRNAs → Down-regulated (FC: -1.132),Inhibition
+RNF39,9,Up-regulated,Down-regulated,-1.132,Consistent_Inhibition,Predicted; Validated,9 miRNAs → Down-regulated (FC: -1.132),Inhibition
+JDP2,9,Down-regulated,Up-regulated,0.713,Consistent_Derepression,Predicted,9 miRNAs → Up-regulated (FC: 0.713),Derepression
+TSC22D3,9,Down-regulated,Up-regulated,0.897,Consistent_Derepression,Predicted,9 miRNAs → Up-regulated (FC: 0.897),Derepression
+PLA2G5,9,Down-regulated,Up-regulated,0.728,Consistent_Derepression,Predicted,9 miRNAs → Up-regulated (FC: 0.728),Derepression
+SOCS6,9,Up-regulated,Down-regulated,-0.478,Consistent_Inhibition,Predicted,9 miRNAs → Down-regulated (FC: -0.478),Inhibition
+ACER2,8,Up-regulated,Down-regulated,-1.039,Consistent_Inhibition,Predicted,8 miRNAs → Down-regulated (FC: -1.039),Inhibition
+LHX3,8,Up-regulated,Down-regulated,-20.128,Consistent_Inhibition,Predicted,8 miRNAs → Down-regulated (FC: -20.128),Inhibition
+F11,8,Down-regulated,Up-regulated,25.598,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 25.598),Derepression
+RAI14,8,Up-regulated,Down-regulated,-0.765,Consistent_Inhibition,Predicted,8 miRNAs → Down-regulated (FC: -0.765),Inhibition
+SERPINA1,8,Down-regulated,Up-regulated,1.042,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 1.042),Derepression
+SGCZ,8,Down-regulated,Up-regulated,24.197,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 24.197),Derepression
+MAT1A,8,Down-regulated,Up-regulated,2.175,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 2.175),Derepression
+MGST1,8,Down-regulated,Up-regulated,1.204,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 1.204),Derepression
+OASL,8,Down-regulated,Up-regulated,1.201,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 1.201),Derepression
+SNCA,8,Down-regulated,Up-regulated,1.012,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 1.012),Derepression
+KLF9,8,Down-regulated,Up-regulated,0.998,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 0.998),Derepression
+NNMT,8,Down-regulated,Up-regulated,0.804,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 0.804),Derepression
+BCL6,8,Up-regulated,Down-regulated,-0.869,Consistent_Inhibition,Predicted,8 miRNAs → Down-regulated (FC: -0.869),Inhibition
+TSPAN5,8,Down-regulated,Up-regulated,0.828,Consistent_Derepression,Predicted,8 miRNAs → Up-regulated (FC: 0.828),Derepression
+CLDN4,8,Up-regulated,Down-regulated,-0.807,Consistent_Inhibition,Predicted; Validated,8 miRNAs → Down-regulated (FC: -0.807),Inhibition
+USP27X,8,Up-regulated,Down-regulated,-0.761,Consistent_Inhibition,Predicted,8 miRNAs → Down-regulated (FC: -0.761),Inhibition
+BNIPL,8,Up-regulated,Down-regulated,-1.263,Consistent_Inhibition,Predicted,8 miRNAs → Down-regulated (FC: -1.263),Inhibition
+SERPINI1,7,Up-regulated,Down-regulated,-1.438,Consistent_Inhibition,Predicted,7 miRNAs → Down-regulated (FC: -1.438),Inhibition
+IL32,7,Down-regulated,Up-regulated,0.782,Consistent_Derepression,Predicted,7 miRNAs → Up-regulated (FC: 0.782),Derepression
+IL2RA,7,Down-regulated,Up-regulated,0.927,Consistent_Derepression,Predicted,7 miRNAs → Up-regulated (FC: 0.927),Derepression
+IL12B,7,Up-regulated,Down-regulated,-1.699,Consistent_Inhibition,Predicted,7 miRNAs → Down-regulated (FC: -1.699),Inhibition
+SPATC1L,7,Up-regulated,Down-regulated,-0.876,Consistent_Inhibition,Predicted,7 miRNAs → Down-regulated (FC: -0.876),Inhibition
+ANKS4B,7,Down-regulated,Up-regulated,6.205,Consistent_Derepression,Predicted; Validated,7 miRNAs → Up-regulated (FC: 6.205),Derepression
+SLC28A2,7,Down-regulated,Up-regulated,1.397,Consistent_Derepression,Predicted,7 miRNAs → Up-regulated (FC: 1.397),Derepression
+PNMA2,7,Down-regulated,Up-regulated,1.373,Consistent_Derepression,Predicted; Validated,7 miRNAs → Up-regulated (FC: 1.373),Derepression
+ZBTB47,7,Down-regulated,Up-regulated,0.701,Consistent_Derepression,Predicted,7 miRNAs → Up-regulated (FC: 0.701),Derepression
+OSMR,7,Up-regulated,Down-regulated,-1.055,Consistent_Inhibition,Predicted; Validated,7 miRNAs → Down-regulated (FC: -1.055),Inhibition
+LMOD1,7,Down-regulated,Up-regulated,0.921,Consistent_Derepression,Predicted,7 miRNAs → Up-regulated (FC: 0.921),Derepression
+SERPINA7,6,Down-regulated,Up-regulated,29.937,Consistent_Derepression,Predicted,6 miRNAs → Up-regulated (FC: 29.937),Derepression
+DMTN,6,Down-regulated,Up-regulated,1.044,Consistent_Derepression,Predicted; Validated,6 miRNAs → Up-regulated (FC: 1.044),Derepression
+HYAL1,6,Down-regulated,Up-regulated,1.043,Consistent_Derepression,Predicted,6 miRNAs → Up-regulated (FC: 1.043),Derepression
+RUNDC3B,6,Up-regulated,Down-regulated,-1.282,Consistent_Inhibition,Predicted,6 miRNAs → Down-regulated (FC: -1.282),Inhibition
+CGB8,6,Up-regulated,Down-regulated,-2.101,Consistent_Inhibition,Predicted,6 miRNAs → Down-regulated (FC: -2.101),Inhibition
+ATOH8,6,Down-regulated,Up-regulated,1.103,Consistent_Derepression,Predicted,6 miRNAs → Up-regulated (FC: 1.103),Derepression
+SLC49A4,6,Up-regulated,Down-regulated,-0.868,Consistent_Inhibition,Predicted,6 miRNAs → Down-regulated (FC: -0.868),Inhibition
+SLC30A1,6,Up-regulated,Down-regulated,-0.64,Consistent_Inhibition,Predicted,6 miRNAs → Down-regulated (FC: -0.640),Inhibition
+MYLIP,6,Up-regulated,Down-regulated,-0.6,Consistent_Inhibition,Predicted,6 miRNAs → Down-regulated (FC: -0.600),Inhibition
+LYPD3,6,Up-regulated,Down-regulated,-1.022,Consistent_Inhibition,Predicted,6 miRNAs → Down-regulated (FC: -1.022),Inhibition
+SMOX,6,Down-regulated,Up-regulated,1.131,Consistent_Derepression,Predicted,6 miRNAs → Up-regulated (FC: 1.131),Derepression
+MICA,6,Down-regulated,Up-regulated,0.756,Consistent_Derepression,Predicted; Validated,6 miRNAs → Up-regulated (FC: 0.756),Derepression
+ARRDC2,5,Down-regulated,Up-regulated,0.805,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 0.805),Derepression
+KCNIP1,5,Down-regulated,Up-regulated,2.249,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 2.249),Derepression
+C10orf99,5,Up-regulated,Down-regulated,-16.025,Consistent_Inhibition,Predicted,5 miRNAs → Down-regulated (FC: -16.025),Inhibition
+C2CD3,5,Up-regulated,Down-regulated,-0.732,Consistent_Inhibition,Predicted,5 miRNAs → Down-regulated (FC: -0.732),Inhibition
+KCNE4,5,Down-regulated,Up-regulated,0.752,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 0.752),Derepression
+LRP3,5,Down-regulated,Up-regulated,0.61,Consistent_Derepression,Predicted; Validated,5 miRNAs → Up-regulated (FC: 0.610),Derepression
+PRAMEF1,5,Up-regulated,Down-regulated,-14.136,Consistent_Inhibition,Predicted,5 miRNAs → Down-regulated (FC: -14.136),Inhibition
+CCDC9B,5,Down-regulated,Up-regulated,0.779,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 0.779),Derepression
+LHX8,5,Down-regulated,Up-regulated,29.911,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 29.911),Derepression
+PIMREG,5,Down-regulated,Up-regulated,1.325,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 1.325),Derepression
+PARP3,5,Down-regulated,Up-regulated,0.758,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 0.758),Derepression
+SYNPR,5,Up-regulated,Down-regulated,-3.584,Consistent_Inhibition,Predicted,5 miRNAs → Down-regulated (FC: -3.584),Inhibition
+PRLHR,5,Down-regulated,Up-regulated,17.092,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 17.092),Derepression
+PRSS23,5,Down-regulated,Up-regulated,0.817,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 0.817),Derepression
+EBF4,5,Down-regulated,Up-regulated,0.8,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 0.800),Derepression
+EPDR1,5,Down-regulated,Up-regulated,1.091,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 1.091),Derepression
+CYP2C19,5,Down-regulated,Up-regulated,20.924,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 20.924),Derepression
+BAAT,5,Down-regulated,Up-regulated,30.0,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 30.000),Derepression
+CSF2RB,5,Up-regulated,Down-regulated,-1.008,Consistent_Inhibition,Predicted,5 miRNAs → Down-regulated (FC: -1.008),Inhibition
+AKR1C3,5,Down-regulated,Up-regulated,1.177,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 1.177),Derepression
+FTCD,5,Up-regulated,Down-regulated,-1.424,Consistent_Inhibition,Predicted,5 miRNAs → Down-regulated (FC: -1.424),Inhibition
+ANKRD1,5,Down-regulated,Up-regulated,1.417,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 1.417),Derepression
+TMEM119,5,Down-regulated,Up-regulated,0.876,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 0.876),Derepression
+SCML2,5,Up-regulated,Down-regulated,-0.791,Consistent_Inhibition,Predicted,5 miRNAs → Down-regulated (FC: -0.791),Inhibition
+RUNDC3A,5,Down-regulated,Up-regulated,1.09,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 1.090),Derepression
+AGXT,5,Down-regulated,Up-regulated,2.182,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 2.182),Derepression
+SSTR2,5,Down-regulated,Up-regulated,1.634,Consistent_Derepression,Predicted; Validated,5 miRNAs → Up-regulated (FC: 1.634),Derepression
+TRIM49D1,5,Down-regulated,Up-regulated,20.766,Consistent_Derepression,Predicted,5 miRNAs → Up-regulated (FC: 20.766),Derepression
+ADAMTS15,4,Down-regulated,Up-regulated,0.816,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.816),Derepression
+NSMF,4,Down-regulated,Up-regulated,0.679,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.679),Derepression
+SMIM3,4,Down-regulated,Up-regulated,0.869,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.869),Derepression
+PDLIM3,4,Down-regulated,Up-regulated,0.612,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.612),Derepression
+VSIG10L2,4,Down-regulated,Up-regulated,24.311,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 24.311),Derepression
+SELENBP1,4,Down-regulated,Up-regulated,1.056,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 1.056),Derepression
+PYDC1,4,Down-regulated,Up-regulated,16.432,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 16.432),Derepression
+C1orf56,4,Up-regulated,Down-regulated,-0.759,Consistent_Inhibition,Predicted; Validated,4 miRNAs → Down-regulated (FC: -0.759),Inhibition
+GADD45B,4,Down-regulated,Up-regulated,0.584,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.584),Derepression
+GEM,4,Down-regulated,Up-regulated,0.554,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.554),Derepression
+HYAL2,4,Down-regulated,Up-regulated,0.784,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.784),Derepression
+HES6,4,Down-regulated,Up-regulated,0.861,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.861),Derepression
+CMC4,4,Up-regulated,Down-regulated,-16.522,Consistent_Inhibition,Predicted,4 miRNAs → Down-regulated (FC: -16.522),Inhibition
+COPZ2,4,Down-regulated,Up-regulated,0.702,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.702),Derepression
+C8A,4,Down-regulated,Up-regulated,19.831,Consistent_Derepression,Predicted; Validated,4 miRNAs → Up-regulated (FC: 19.831),Derepression
+CRH,4,Up-regulated,Down-regulated,-1.964,Consistent_Inhibition,Predicted,4 miRNAs → Down-regulated (FC: -1.964),Inhibition
+C4orf50,4,Down-regulated,Up-regulated,30.0,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 30.000),Derepression
+FBXO17,4,Down-regulated,Up-regulated,0.715,Consistent_Derepression,Predicted,4 miRNAs → Up-regulated (FC: 0.715),Derepression
+CGB5,3,Up-regulated,Down-regulated,-1.951,Consistent_Inhibition,Predicted,3 miRNAs → Down-regulated (FC: -1.951),Inhibition
+GYPC,3,Down-regulated,Up-regulated,1.063,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 1.063),Derepression
+ST6GALNAC1,3,Down-regulated,Up-regulated,0.811,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 0.811),Derepression
+F3,3,Down-regulated,Up-regulated,0.763,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 0.763),Derepression
+SNTA1,3,Down-regulated,Up-regulated,0.668,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 0.668),Derepression
+HIGD2B,3,Up-regulated,Down-regulated,-22.523,Consistent_Inhibition,Predicted,3 miRNAs → Down-regulated (FC: -22.523),Inhibition
+FXYD7,3,Down-regulated,Up-regulated,3.323,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 3.323),Derepression
+APCDD1,3,Down-regulated,Up-regulated,0.726,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 0.726),Derepression
+FNDC4,3,Down-regulated,Up-regulated,1.336,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 1.336),Derepression
+TRNP1,3,Down-regulated,Up-regulated,0.899,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 0.899),Derepression
+ORM1,3,Down-regulated,Up-regulated,4.305,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 4.305),Derepression
+ORM2,3,Down-regulated,Up-regulated,4.355,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 4.355),Derepression
+CCDC171,3,Up-regulated,Down-regulated,-0.642,Consistent_Inhibition,Predicted,3 miRNAs → Down-regulated (FC: -0.642),Inhibition
+NDN,3,Down-regulated,Up-regulated,0.781,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 0.781),Derepression
+POLR2J3,3,Up-regulated,Down-regulated,-1.119,Consistent_Inhibition,Predicted; Validated,3 miRNAs → Down-regulated (FC: -1.119),Inhibition
+TTLL10,3,Down-regulated,Up-regulated,0.847,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 0.847),Derepression
+PLEKHG4,3,Down-regulated,Up-regulated,0.717,Consistent_Derepression,Predicted; Validated,3 miRNAs → Up-regulated (FC: 0.717),Derepression
+METTL21C,3,Up-regulated,Down-regulated,-1.098,Consistent_Inhibition,Predicted,3 miRNAs → Down-regulated (FC: -1.098),Inhibition
+ACTL8,3,Down-regulated,Up-regulated,22.842,Consistent_Derepression,Predicted,3 miRNAs → Up-regulated (FC: 22.842),Derepression
+STK39,2,Down-regulated,Up-regulated,0.664,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 0.664),Derepression
+ACTG2,2,Down-regulated,Up-regulated,0.908,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 0.908),Derepression
+DEFB123,2,Down-regulated,Up-regulated,21.323,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 21.323),Derepression
+C6,2,Down-regulated,Up-regulated,1.789,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 1.789),Derepression
+CYP3A4,2,Down-regulated,Up-regulated,6.44,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 6.440),Derepression
+ALDH1A1,2,Down-regulated,Up-regulated,1.12,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 1.120),Derepression
+TENT5D,2,Down-regulated,Up-regulated,19.863,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 19.863),Derepression
+TMEM158,2,Down-regulated,Up-regulated,1.297,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 1.297),Derepression
+CCN2,2,Down-regulated,Up-regulated,0.95,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 0.950),Derepression
+CGB3,2,Up-regulated,Down-regulated,-2.049,Consistent_Inhibition,Predicted,2 miRNAs → Down-regulated (FC: -2.049),Inhibition
+BEX1,2,Up-regulated,Down-regulated,-2.997,Consistent_Inhibition,Predicted,2 miRNAs → Down-regulated (FC: -2.997),Inhibition
+APOA1,2,Down-regulated,Up-regulated,2.096,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 2.096),Derepression
+FOXA2,2,Down-regulated,Up-regulated,26.653,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 26.653),Derepression
+GUCA2A,2,Up-regulated,Down-regulated,-1.331,Consistent_Inhibition,Predicted,2 miRNAs → Down-regulated (FC: -1.331),Inhibition
+LUZP4,2,Down-regulated,Up-regulated,19.883,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 19.883),Derepression
+LURAP1L,2,Down-regulated,Up-regulated,0.679,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 0.679),Derepression
+INS,2,Down-regulated,Up-regulated,25.643,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 25.643),Derepression
+PRODH2,2,Down-regulated,Up-regulated,20.766,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 20.766),Derepression
+ARSJ,2,Down-regulated,Up-regulated,0.793,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 0.793),Derepression
+IFITM10,2,Down-regulated,Up-regulated,2.173,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 2.173),Derepression
+IFI27,2,Down-regulated,Up-regulated,0.763,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 0.763),Derepression
+AMBP,2,Down-regulated,Up-regulated,30.0,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 30.000),Derepression
+SAA1,2,Down-regulated,Up-regulated,2.44,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 2.440),Derepression
+MYL4,2,Down-regulated,Up-regulated,1.231,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 1.231),Derepression
+SERPINA4,2,Down-regulated,Up-regulated,24.083,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 24.083),Derepression
+SIX3,2,Down-regulated,Up-regulated,19.863,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 19.863),Derepression
+SLC2A2,2,Down-regulated,Up-regulated,24.108,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 24.108),Derepression
+GAGE1,2,Down-regulated,Up-regulated,24.205,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 24.205),Derepression
+NECAB1,2,Down-regulated,Up-regulated,0.82,Consistent_Derepression,Predicted,2 miRNAs → Up-regulated (FC: 0.820),Derepression
+GAGE12E,1,Down-regulated,Up-regulated,24.341,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 24.341),Derepression
+AKR1B10,1,Down-regulated,Up-regulated,3.479,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 3.479),Derepression
+ECM1,1,Up-regulated,Down-regulated,-1.087,Consistent_Inhibition,Predicted,1 miRNAs → Down-regulated (FC: -1.087),Inhibition
+GATA6,1,Down-regulated,Up-regulated,0.751,Consistent_Derepression,Validated,1 miRNAs → Up-regulated (FC: 0.751),Derepression
+HAO1,1,Down-regulated,Up-regulated,18.559,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 18.559),Derepression
+ARID5A,1,Down-regulated,Up-regulated,0.503,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 0.503),Derepression
+APOH,1,Down-regulated,Up-regulated,25.115,Consistent_Derepression,Validated,1 miRNAs → Up-regulated (FC: 25.115),Derepression
+PMIS2,1,Down-regulated,Up-regulated,19.863,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 19.863),Derepression
+FBLL1,1,Down-regulated,Up-regulated,2.113,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 2.113),Derepression
+VTN,1,Down-regulated,Up-regulated,1.052,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 1.052),Derepression
+PKD2L1,1,Down-regulated,Up-regulated,2.993,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 2.993),Derepression
+GPAT2,1,Down-regulated,Up-regulated,1.601,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 1.601),Derepression
+NANOGNB,1,Up-regulated,Down-regulated,-16.522,Consistent_Inhibition,Predicted,1 miRNAs → Down-regulated (FC: -16.522),Inhibition
+HBA1,1,Down-regulated,Up-regulated,1.305,Consistent_Derepression,Predicted,1 miRNAs → Up-regulated (FC: 1.305),Derepression

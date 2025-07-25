@@ -1,0 +1,151 @@
+================================================================================
+Complete CpG-miRNA-mRNA Mediation Analysis Report
+================================================================================
+Analysis time: 2025-07-25 16:08:39
+
+1. Data Loading and Matching Statistics
+----------------------------------------
+DEG-Expression matrix gene matching: 19852
+DEG-DMR gene matching: 12184
+DEmiR-Expression matrix miRNA matching: 2201
+Common samples: 50
+
+2. Triplet Construction Statistics
+----------------------------------------
+Total triplets constructed: 14398
+Unique genes involved: 110
+Unique miRNAs involved: 46
+
+3. Mediation Analysis Diagnostic Statistics
+----------------------------------------
+total_attempts: 100
+gene_not_found: 0
+mirna_not_found: 0
+insufficient_samples: 0
+no_variance: 0
+model_error: 0
+successful: 100
+Success rate: 100.0%
+
+4. Mediation Analysis Results Statistics
+----------------------------------------
+Successful analyses: 100
+Significant mediation effects: 9 (9.0%)
+Significant Path a: 36 (36.0%)
+Significant Path b: 19 (19.0%)
+Average sample size: 50.0
+Average R² (mediator model): 0.085
+Average R² (outcome model): 0.121
+
+5. TOP 10 Significant Mediation Effects Details
+----------------------------------------
+1. LHX8 - hsa-miR-450a-1-3p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0069 (p=0.0348)
+   Path b (miRNA→mRNA): 0.0214 (p=0.0000)
+   Total effect: -0.0002
+   Mediation proportion: 0.739
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+2. LHX8 - hsa-miR-450a-1-3p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0069 (p=0.0348)
+   Path b (miRNA→mRNA): 0.0214 (p=0.0000)
+   Total effect: -0.0002
+   Mediation proportion: 0.739
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+3. LHX8 - hsa-miR-450a-1-3p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0069 (p=0.0348)
+   Path b (miRNA→mRNA): 0.0214 (p=0.0000)
+   Total effect: -0.0002
+   Mediation proportion: 0.739
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+4. LHX8 - hsa-miR-195-5p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0670 (p=0.0238)
+   Path b (miRNA→mRNA): 0.0022 (p=0.0001)
+   Total effect: -0.0002
+   Mediation proportion: 0.732
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+5. LHX8 - hsa-miR-195-5p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0670 (p=0.0238)
+   Path b (miRNA→mRNA): 0.0022 (p=0.0001)
+   Total effect: -0.0002
+   Mediation proportion: 0.732
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+6. LHX8 - hsa-miR-195-5p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0670 (p=0.0238)
+   Path b (miRNA→mRNA): 0.0022 (p=0.0001)
+   Total effect: -0.0002
+   Mediation proportion: 0.732
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+7. LHX8 - hsa-miR-497-5p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0111 (p=0.0299)
+   Path b (miRNA→mRNA): 0.0107 (p=0.0009)
+   Total effect: -0.0002
+   Mediation proportion: 0.592
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+8. LHX8 - hsa-miR-497-5p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0111 (p=0.0299)
+   Path b (miRNA→mRNA): 0.0107 (p=0.0009)
+   Total effect: -0.0002
+   Mediation proportion: 0.592
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+9. LHX8 - hsa-miR-497-5p
+   Gene Ensembl ID: ENSG00000162624
+   ACME: -0.0001
+   Path a (B12→miRNA): -0.0111 (p=0.0299)
+   Path b (miRNA→mRNA): 0.0107 (p=0.0009)
+   Total effect: -0.0002
+   Mediation proportion: 0.592
+   Sample size: 50
+   B12 variable: B12_numeric
+   Regulatory directions: Gene-Up-regulated, miRNA-Up-regulated, Methylation-Hypomethylated
+
+6. Analysis Quality Assessment
+----------------------------------------
+Improvements in this analysis:
+- Used correct gene ID matching (Ensembl ID)
+- Verified data matching quality
+- Included complete sample matching workflow
+- Controlled for age and BMI covariates
+- Provided detailed diagnostic information
+
+================================================================================
+Analysis Complete
