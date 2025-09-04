@@ -1,0 +1,54 @@
+{
+    "pipeline_info": {
+        "model_type": "Data-Driven LASSO Logistic Regression",
+        "version": "No Data Leakage with Nested CV",
+        "start_time": "2025-08-25T13:12:25.018602",
+        "end_time": "2025-08-25T13:12:27.993155",
+        "duration_seconds": 2.974553,
+        "success": true,
+        "feature_selection_method": "Mann-Whitney U + Cohens d on training data only",
+        "preprocessing": "Median imputation + StandardScaler + OneHotEncoder",
+        "nested_cv_applied": true
+    },
+    "selected_features": {
+        "methylation_genes": [
+            "PLCH2",
+            "TNFRSF14-AS1",
+            "TNFRSF14",
+            "C1orf159",
+            "SCNN1D",
+            "LOC124903823",
+            "UBE2J2",
+            "SLC35E2B",
+            "TMEM52",
+            "LOC100129534"
+        ],
+        "total_features": 21,
+        "clinical_features": 11,
+        "methylation_features": 10
+    },
+    "performance_metrics": {
+        "auc_roc": 0.9600000000000001,
+        "accuracy": 0.9,
+        "f1_score": 0.8888888888888888,
+        "precision": 1.0,
+        "recall_sensitivity": 0.8,
+        "specificity": 1.0
+    },
+    "cross_validation": {
+        "cv_scores": [
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            0.6875
+        ],
+        "mean_cv_auc": 0.8375,
+        "std_cv_auc": 0.2076655965729519
+    },
+    "data_splits": {
+        "training_pool_samples": 40,
+        "holdout_test_samples": 10,
+        "nested_cv_strategy": "5-fold outer, 3-fold inner"
+    }
+}

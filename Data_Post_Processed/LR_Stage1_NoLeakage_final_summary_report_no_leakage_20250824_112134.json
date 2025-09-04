@@ -1,0 +1,95 @@
+{
+    "pipeline_info": {
+        "model_type": "Logistic Regression",
+        "version": "No Data Leakage",
+        "start_time": "2025-08-24T11:21:34.276101",
+        "end_time": "2025-08-24T11:21:43.529145",
+        "duration_seconds": 9.253044,
+        "success": true,
+        "data_leakage_prevented": true,
+        "b12_mol_excluded": true,
+        "feature_scaling_applied": true
+    },
+    "key_metrics": {
+        "AUC": 0.7142857142857143,
+        "Accuracy": 0.7692307692307693,
+        "Precision": 0.8,
+        "Recall_Sensitivity": 0.6666666666666666
+    },
+    "data_info": {
+        "total_samples": 50,
+        "total_features": 17,
+        "train_samples": 29,
+        "val_samples": 8,
+        "test_samples": 13,
+        "clinical_features": 7,
+        "methylation_features": 10
+    },
+    "model_performance": {
+        "auc_roc": 0.7142857142857143,
+        "accuracy": 0.7692307692307693,
+        "f1_score": 0.7272727272727273,
+        "precision": 0.8,
+        "recall_sensitivity": 0.6666666666666666,
+        "specificity": 0.8571428571428571
+    },
+    "top_features": [
+        {
+            "feature": "LOC107984227",
+            "coefficient": 3.0306852212596094,
+            "abs_coefficient": 3.0306852212596094
+        },
+        {
+            "feature": "FEM1B",
+            "coefficient": 2.711230518520094,
+            "abs_coefficient": 2.711230518520094
+        },
+        {
+            "feature": "PLLP",
+            "coefficient": 2.6077935194384616,
+            "abs_coefficient": 2.6077935194384616
+        },
+        {
+            "feature": "OGDHL",
+            "coefficient": -2.515048205208443,
+            "abs_coefficient": 2.515048205208443
+        },
+        {
+            "feature": "B12supplem",
+            "coefficient": -1.8741502118849755,
+            "abs_coefficient": 1.8741502118849755
+        },
+        {
+            "feature": "v1p_FolicAcid",
+            "coefficient": -1.1657354153769075,
+            "abs_coefficient": 1.1657354153769075
+        },
+        {
+            "feature": "MIR140",
+            "coefficient": -1.1166745825708118,
+            "abs_coefficient": 1.1166745825708118
+        },
+        {
+            "feature": "NCRUPAR",
+            "coefficient": -0.914847736144649,
+            "abs_coefficient": 0.914847736144649
+        },
+        {
+            "feature": "FTH1P7",
+            "coefficient": -0.2226737463564294,
+            "abs_coefficient": 0.2226737463564294
+        },
+        {
+            "feature": "ING4",
+            "coefficient": -0.2131389044499249,
+            "abs_coefficient": 0.2131389044499249
+        }
+    ],
+    "feature_selection_method": "TRUE Stability Selection with LASSO L1 penalty on training data only",
+    "model_parameters": {
+        "C": 100.0,
+        "penalty": "l1",
+        "solver": "liblinear",
+        "class_weight": "balanced"
+    }
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "architecture": {
+            "name": "Small_Network",
+            "hidden_1_neurons": 32,
+            "hidden_2_neurons": 16,
+            "hidden_3_neurons": 0,
+            "dropout_rate": 0.3,
+            "l2_reg": 0.001,
+            "learning_rate": 0.001,
+            "batch_size": 16
+        },
+        "val_auc": 0.5,
+        "val_accuracy": 0.5,
+        "best_epoch": 

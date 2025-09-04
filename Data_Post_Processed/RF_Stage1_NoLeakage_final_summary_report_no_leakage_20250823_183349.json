@@ -1,0 +1,81 @@
+{
+    "pipeline_info": {
+        "version": "No Data Leakage",
+        "start_time": "2025-08-23T18:33:49.977899",
+        "end_time": "2025-08-23T18:34:36.348149",
+        "duration_seconds": 46.37025,
+        "success": true,
+        "data_leakage_prevented": true,
+        "b12_mol_excluded": true
+    },
+    "key_metrics": {
+        "AUC": 0.9047619047619048,
+        "Accuracy": 0.6923076923076923,
+        "Precision": 0.6666666666666666,
+        "Recall_Sensitivity": 0.6666666666666666
+    },
+    "data_info": {
+        "total_samples": 50,
+        "total_features": 27,
+        "train_samples": 29,
+        "val_samples": 8,
+        "test_samples": 13,
+        "clinical_features": 7,
+        "methylation_features": 20
+    },
+    "model_performance": {
+        "accuracy": 0.6923076923076923,
+        "auc_roc": 0.9047619047619048,
+        "f1_score": 0.6666666666666666,
+        "matthews_corr_coef": 0.38095238095238093,
+        "cohens_kappa": 0.38095238095238093,
+        "brier_score": 0.19013415579755522,
+        "sensitivity": 0.6666666666666666,
+        "specificity": 0.7142857142857143,
+        "precision": 0.6666666666666666,
+        "negative_predictive_value": 0.7142857142857143
+    },
+    "top_features": [
+        {
+            "feature": "FEM1B",
+            "importance": 0.10382805004591594
+        },
+        {
+            "feature": "BMI",
+            "importance": 0.10153466607449294
+        },
+        {
+            "feature": "LRRC37A3",
+            "importance": 0.07052144718836913
+        },
+        {
+            "feature": "F2R",
+            "importance": 0.07018377275063004
+        },
+        {
+            "feature": "M1AP",
+            "importance": 0.06403636929348104
+        },
+        {
+            "feature": "OR13D1",
+            "importance": 0.06349929499268483
+        },
+        {
+            "feature": "RN7SL356P",
+            "importance": 0.05869064693125321
+        },
+        {
+            "feature": "CHD9",
+            "importance": 0.04538453039883788
+        },
+        {
+            "feature": "SGK1",
+            "importance": 0.03935921077084024
+        },
+        {
+            "feature": "NCRUPAR",
+            "importance": 0.03726641728425295
+        }
+    ],
+    "feature_selection_method": "Statistical testing on training data only"
+}

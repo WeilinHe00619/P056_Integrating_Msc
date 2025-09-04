@@ -1,0 +1,1865 @@
+{
+  "data_driven": {
+    "performance": [
+      {
+        "split": 0,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.56,
+          "accuracy": 0.4,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0
+        },
+        "selected_features": [
+          "ZNF747-DT",
+          "AFAP1L2",
+          "OCIAD2",
+          "LOC124903230",
+          "TFAP2E",
+          "TFAP2E-AS1",
+          "CELF2",
+          "TDRD12",
+          "KCMF1",
+          "SNAP25"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "ZNF747-DT",
+          "AFAP1L2",
+          "OCIAD2",
+          "LOC124903230",
+          "TFAP2E",
+          "TFAP2E-AS1",
+          "CELF2",
+          "TDRD12",
+          "KCMF1",
+          "SNAP25"
+        ]
+      },
+      {
+        "split": 1,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 1.0,
+          "accuracy": 0.8,
+          "precision": 0.7142857142857143,
+          "recall": 1.0,
+          "f1_score": 0.8333333333333334
+        },
+        "selected_features": [
+          "NHP2",
+          "SULF1",
+          "OGDHL",
+          "LAMA3",
+          "CCNG1",
+          "EGR1",
+          "TMT1B",
+          "RBM28",
+          "MVD",
+          "LOC105372244"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "NHP2",
+          "SULF1",
+          "OGDHL",
+          "LAMA3",
+          "CCNG1",
+          "EGR1",
+          "TMT1B",
+          "RBM28",
+          "MVD",
+          "LOC105372244"
+        ]
+      },
+      {
+        "split": 2,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8,
+          "accuracy": 0.6,
+          "precision": 0.6,
+          "recall": 0.6,
+          "f1_score": 0.6
+        },
+        "selected_features": [
+          "KCMF1",
+          "CCNG1",
+          "SLC15A3",
+          "PLCH2",
+          "EGR1",
+          "KLF3-AS1",
+          "MATN2",
+          "LINGO1-AS2",
+          "MIR4457",
+          "CD207"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "KCMF1",
+          "CCNG1",
+          "SLC15A3",
+          "PLCH2",
+          "EGR1",
+          "KLF3-AS1",
+          "MATN2",
+          "LINGO1-AS2",
+          "MIR4457",
+          "CD207"
+        ]
+      },
+      {
+        "split": 3,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.36,
+          "accuracy": 0.3,
+          "precision": 0.3333333333333333,
+          "recall": 0.4,
+          "f1_score": 0.36363636363636365
+        },
+        "selected_features": [
+          "RN7SL454P",
+          "MYADML",
+          "MIR598",
+          "KCMF1",
+          "CCNG1",
+          "LINC02214",
+          "MIR4457",
+          "LINC03068",
+          "LINC02870",
+          "NHP2"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "RN7SL454P",
+          "MYADML",
+          "MIR598",
+          "KCMF1",
+          "CCNG1",
+          "LINC02214",
+          "MIR4457",
+          "LINC03068",
+          "LINC02870",
+          "NHP2"
+        ]
+      },
+      {
+        "split": 4,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "KCMF1",
+          "SULF1",
+          "LOC124903423",
+          "ZNF653",
+          "TNFRSF14-AS1",
+          "LAMA3",
+          "MANSC4",
+          "KLHL42",
+          "TNFRSF14",
+          "EGR1"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "KCMF1",
+          "SULF1",
+          "LOC124903423",
+          "ZNF653",
+          "TNFRSF14-AS1",
+          "LAMA3",
+          "MANSC4",
+          "KLHL42",
+          "TNFRSF14",
+          "EGR1"
+        ]
+      },
+      {
+        "split": 5,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8800000000000001,
+          "accuracy": 0.8,
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1_score": 0.8
+        },
+        "selected_features": [
+          "ZNF747-DT",
+          "LOC124903230",
+          "OGDHL",
+          "KCMF1",
+          "GGN",
+          "OCIAD2",
+          "TNFRSF14-AS1",
+          "CIBAR1P1",
+          "LOC105374329",
+          "ARPC1AP4"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "ZNF747-DT",
+          "LOC124903230",
+          "OGDHL",
+          "KCMF1",
+          "GGN",
+          "OCIAD2",
+          "TNFRSF14-AS1",
+          "CIBAR1P1",
+          "LOC105374329",
+          "ARPC1AP4"
+        ]
+      },
+      {
+        "split": 6,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.7200000000000001,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "LAMA3",
+          "CCNG1",
+          "COL13A1",
+          "PLA2G5",
+          "LINC02523",
+          "TMT1B",
+          "EGR1",
+          "SULF1",
+          "CD226",
+          "RN7SL454P"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "LAMA3",
+          "CCNG1",
+          "COL13A1",
+          "PLA2G5",
+          "LINC02523",
+          "TMT1B",
+          "EGR1",
+          "SULF1",
+          "CD226",
+          "RN7SL454P"
+        ]
+      },
+      {
+        "split": 7,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 1.0,
+          "accuracy": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0
+        },
+        "selected_features": [
+          "KCMF1",
+          "LINC01879",
+          "OGDHL",
+          "LOC124900697",
+          "SLC22A2",
+          "SULF1",
+          "ZNF747-DT",
+          "TNFRSF14-AS1",
+          "AKR7A3",
+          "CCNG1"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "KCMF1",
+          "LINC01879",
+          "OGDHL",
+          "LOC124900697",
+          "SLC22A2",
+          "SULF1",
+          "ZNF747-DT",
+          "TNFRSF14-AS1",
+          "AKR7A3",
+          "CCNG1"
+        ]
+      },
+      {
+        "split": 8,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.36000000000000004,
+          "accuracy": 0.5,
+          "precision": 0.5,
+          "recall": 0.6,
+          "f1_score": 0.5454545454545454
+        },
+        "selected_features": [
+          "MVD",
+          "LAMA3",
+          "CYBA",
+          "CCNG1",
+          "GTF2H1",
+          "COL13A1",
+          "PTTG1P2",
+          "LINC02102",
+          "LOC124900868",
+          "TET2"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "MVD",
+          "LAMA3",
+          "CYBA",
+          "CCNG1",
+          "GTF2H1",
+          "COL13A1",
+          "PTTG1P2",
+          "LINC02102",
+          "LOC124900868",
+          "TET2"
+        ]
+      },
+      {
+        "split": 9,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.48000000000000004,
+          "accuracy": 0.5,
+          "precision": 0.5,
+          "recall": 0.8,
+          "f1_score": 0.6153846153846154
+        },
+        "selected_features": [
+          "RNA5SP130",
+          "EGR1",
+          "LAMA3",
+          "BCL2L15",
+          "KCMF1",
+          "FTH1P7",
+          "TNFRSF14-AS1",
+          "TNFRSF14",
+          "ZCCHC10P1",
+          "EPOP"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "RNA5SP130",
+          "EGR1",
+          "LAMA3",
+          "BCL2L15",
+          "KCMF1",
+          "FTH1P7",
+          "TNFRSF14-AS1",
+          "TNFRSF14",
+          "ZCCHC10P1",
+          "EPOP"
+        ]
+      },
+      {
+        "split": 10,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.24,
+          "accuracy": 0.4,
+          "precision": 0.42857142857142855,
+          "recall": 0.6,
+          "f1_score": 0.5
+        },
+        "selected_features": [
+          "LAMA3",
+          "EGR1",
+          "CCNG1",
+          "KCMF1",
+          "ZNF747-DT",
+          "FBXW10",
+          "LINC02968",
+          "ENO4",
+          "MVD",
+          "MYADML"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "LAMA3",
+          "EGR1",
+          "CCNG1",
+          "KCMF1",
+          "ZNF747-DT",
+          "FBXW10",
+          "LINC02968",
+          "ENO4",
+          "MVD",
+          "MYADML"
+        ]
+      },
+      {
+        "split": 11,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.64,
+          "accuracy": 0.6,
+          "precision": 0.5714285714285714,
+          "recall": 0.8,
+          "f1_score": 0.6666666666666666
+        },
+        "selected_features": [
+          "KCMF1",
+          "CCNG1",
+          "SULF1",
+          "CEPT1",
+          "OGDHL",
+          "TNFRSF14-AS1",
+          "TNFRSF14",
+          "NUDC",
+          "OCIAD2",
+          "LAMA3"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "KCMF1",
+          "CCNG1",
+          "SULF1",
+          "CEPT1",
+          "OGDHL",
+          "TNFRSF14-AS1",
+          "TNFRSF14",
+          "NUDC",
+          "OCIAD2",
+          "LAMA3"
+        ]
+      },
+      {
+        "split": 12,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.56,
+          "accuracy": 0.6,
+          "precision": 0.6666666666666666,
+          "recall": 0.4,
+          "f1_score": 0.5
+        },
+        "selected_features": [
+          "SCP2D1-AS1",
+          "LAMA3",
+          "SRRM1",
+          "CCNG1",
+          "KCMF1",
+          "NEB",
+          "EGR1",
+          "ZNF653",
+          "USP34",
+          "ZCCHC10P1"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "SCP2D1-AS1",
+          "LAMA3",
+          "SRRM1",
+          "CCNG1",
+          "KCMF1",
+          "NEB",
+          "EGR1",
+          "ZNF653",
+          "USP34",
+          "ZCCHC10P1"
+        ]
+      },
+      {
+        "split": 13,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.3
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.76,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "KCMF1",
+          "SLC22A2",
+          "ADIPOR1P1",
+          "EGR1",
+          "ZNF747-DT",
+          "SULF1",
+          "NUDC",
+          "CCNG1",
+          "ZNF653",
+          "LAMA3"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "KCMF1",
+          "SLC22A2",
+          "ADIPOR1P1",
+          "EGR1",
+          "ZNF747-DT",
+          "SULF1",
+          "NUDC",
+          "CCNG1",
+          "ZNF653",
+          "LAMA3"
+        ]
+      },
+      {
+        "split": 14,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.36,
+          "accuracy": 0.3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0
+        },
+        "selected_features": [
+          "GINM1",
+          "SULF1",
+          "DTX3",
+          "LOC105374428",
+          "SHISA3",
+          "CD226",
+          "TMT1B",
+          "BEST1",
+          "SLC15A3",
+          "CAPZA2"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "GINM1",
+          "SULF1",
+          "DTX3",
+          "LOC105374428",
+          "SHISA3",
+          "CD226",
+          "TMT1B",
+          "BEST1",
+          "SLC15A3",
+          "CAPZA2"
+        ]
+      },
+      {
+        "split": 15,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8400000000000001,
+          "accuracy": 0.8,
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1_score": 0.75
+        },
+        "selected_features": [
+          "KCMF1",
+          "ZCCHC10P1",
+          "TNFRSF14-AS1",
+          "TNFRSF14",
+          "PPIL1P1",
+          "RHBDF2",
+          "CCNG1",
+          "CHAF1B",
+          "EGR1",
+          "LAMA3"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "KCMF1",
+          "ZCCHC10P1",
+          "TNFRSF14-AS1",
+          "TNFRSF14",
+          "PPIL1P1",
+          "RHBDF2",
+          "CCNG1",
+          "CHAF1B",
+          "EGR1",
+          "LAMA3"
+        ]
+      },
+      {
+        "split": 16,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8400000000000001,
+          "accuracy": 0.6,
+          "precision": 1.0,
+          "recall": 0.2,
+          "f1_score": 0.3333333333333333
+        },
+        "selected_features": [
+          "KCMF1",
+          "OGDHL",
+          "CCNG1",
+          "NEB",
+          "NHP2",
+          "MIR4457",
+          "EEF2KMT",
+          "IPP",
+          "SHISA3",
+          "LOC105374428"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "KCMF1",
+          "OGDHL",
+          "CCNG1",
+          "NEB",
+          "NHP2",
+          "MIR4457",
+          "EEF2KMT",
+          "IPP",
+          "SHISA3",
+          "LOC105374428"
+        ]
+      },
+      {
+        "split": 17,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.76,
+          "accuracy": 0.8,
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1_score": 0.8
+        },
+        "selected_features": [
+          "NCRUPAR",
+          "F2R",
+          "CCNG1",
+          "ZCCHC10P1",
+          "AFAP1L2",
+          "PPIL1P1",
+          "ZNF747-DT",
+          "OGDHL",
+          "RNA5SP130",
+          "GTF2IP23"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "NCRUPAR",
+          "F2R",
+          "CCNG1",
+          "ZCCHC10P1",
+          "AFAP1L2",
+          "PPIL1P1",
+          "ZNF747-DT",
+          "OGDHL",
+          "RNA5SP130",
+          "GTF2IP23"
+        ]
+      },
+      {
+        "split": 18,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 1.0,
+          "accuracy": 0.8,
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1_score": 0.75
+        },
+        "selected_features": [
+          "AFAP1L2",
+          "NEB",
+          "PTTG1P2",
+          "ZCCHC10P1",
+          "NHP2",
+          "KCMF1",
+          "ZNF747-DT",
+          "KLF3-AS1",
+          "OCIAD2",
+          "RNA5SP130"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "AFAP1L2",
+          "NEB",
+          "PTTG1P2",
+          "ZCCHC10P1",
+          "NHP2",
+          "KCMF1",
+          "ZNF747-DT",
+          "KLF3-AS1",
+          "OCIAD2",
+          "RNA5SP130"
+        ]
+      },
+      {
+        "split": 19,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.76,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "LOC102725048",
+          "GLUD1",
+          "CCNG1",
+          "CD226",
+          "PDPR2P",
+          "SRRM1",
+          "RNA5SP130",
+          "ZCCHC10P1",
+          "LINC01588",
+          "TNFRSF14-AS1"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "LOC102725048",
+          "GLUD1",
+          "CCNG1",
+          "CD226",
+          "PDPR2P",
+          "SRRM1",
+          "RNA5SP130",
+          "ZCCHC10P1",
+          "LINC01588",
+          "TNFRSF14-AS1"
+        ]
+      }
+    ],
+    "feature_stability": {
+      "KCMF1": 0.7,
+      "CCNG1": 0.7,
+      "LAMA3": 0.5,
+      "EGR1": 0.45,
+      "TNFRSF14-AS1": 0.35,
+      "SULF1": 0.35,
+      "ZNF747-DT": 0.35,
+      "OGDHL": 0.3,
+      "ZCCHC10P1": 0.3,
+      "TNFRSF14": 0.2,
+      "NHP2": 0.2,
+      "RNA5SP130": 0.2,
+      "OCIAD2": 0.2,
+      "AFAP1L2": 0.15,
+      "MIR4457": 0.15,
+      "ZNF653": 0.15,
+      "TMT1B": 0.15,
+      "CD226": 0.15,
+      "MVD": 0.15,
+      "NEB": 0.15,
+      "LOC105374428": 0.1,
+      "COL13A1": 0.1,
+      "SRRM1": 0.1,
+      "PTTG1P2": 0.1,
+      "SLC22A2": 0.1,
+      "NUDC": 0.1,
+      "SHISA3": 0.1,
+      "MYADML": 0.1,
+      "RN7SL454P": 0.1,
+      "PPIL1P1": 0.1,
+      "LOC124903230": 0.1,
+      "KLF3-AS1": 0.1,
+      "SLC15A3": 0.1,
+      "F2R": 0.05,
+      "FTH1P7": 0.05,
+      "PDPR2P": 0.05,
+      "EPOP": 0.05,
+      "FBXW10": 0.05,
+      "LINC02968": 0.05,
+      "GLUD1": 0.05,
+      "ENO4": 0.05,
+      "CEPT1": 0.05,
+      "LOC102725048": 0.05,
+      "GTF2IP23": 0.05,
+      "SCP2D1-AS1": 0.05,
+      "NCRUPAR": 0.05,
+      "CAPZA2": 0.05,
+      "IPP": 0.05,
+      "USP34": 0.05,
+      "EEF2KMT": 0.05,
+      "ADIPOR1P1": 0.05,
+      "GINM1": 0.05,
+      "CHAF1B": 0.05,
+      "DTX3": 0.05,
+      "RHBDF2": 0.05,
+      "BEST1": 0.05,
+      "BCL2L15": 0.05,
+      "LINC02523": 0.05,
+      "TET2": 0.05,
+      "LOC124900868": 0.05,
+      "TFAP2E": 0.05,
+      "TFAP2E-AS1": 0.05,
+      "CELF2": 0.05,
+      "TDRD12": 0.05,
+      "SNAP25": 0.05,
+      "RBM28": 0.05,
+      "LOC105372244": 0.05,
+      "PLCH2": 0.05,
+      "MATN2": 0.05,
+      "LINGO1-AS2": 0.05,
+      "CD207": 0.05,
+      "MIR598": 0.05,
+      "LINC02214": 0.05,
+      "LINC03068": 0.05,
+      "LINC02870": 0.05,
+      "LOC124903423": 0.05,
+      "MANSC4": 0.05,
+      "KLHL42": 0.05,
+      "GGN": 0.05,
+      "CIBAR1P1": 0.05,
+      "LOC105374329": 0.05,
+      "ARPC1AP4": 0.05,
+      "PLA2G5": 0.05,
+      "LINC01879": 0.05,
+      "LOC124900697": 0.05,
+      "AKR7A3": 0.05,
+      "CYBA": 0.05,
+      "GTF2H1": 0.05,
+      "LINC02102": 0.05,
+      "LINC01588": 0.05
+    },
+    "feature_importance": []
+  },
+  "mechanism_driven": {
+    "performance": [
+      {
+        "split": 0,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.3
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8800000000000001,
+          "accuracy": 0.8,
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1_score": 0.8
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 1,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.56,
+          "accuracy": 0.5,
+          "precision": 0.5,
+          "recall": 0.4,
+          "f1_score": 0.4444444444444444
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 2,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.3
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.92,
+          "accuracy": 0.9,
+          "precision": 0.8333333333333334,
+          "recall": 1.0,
+          "f1_score": 0.9090909090909091
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 3,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.3
+        },
+        "validation_auc": 0.9375,
+        "test_metrics": {
+          "auc": 0.9600000000000001,
+          "accuracy": 0.9,
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1_score": 0.8888888888888888
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 4,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.1,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 0.9375,
+        "test_metrics": {
+          "auc": 0.8400000000000001,
+          "accuracy": 0.8,
+          "precision": 0.7142857142857143,
+          "recall": 1.0,
+          "f1_score": 0.8333333333333334
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 5,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.1,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.92,
+          "accuracy": 0.8,
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1_score": 0.8
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 6,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.64,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 7,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.72,
+          "accuracy": 0.8,
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1_score": 0.75
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 8,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.01,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 0.9375,
+        "test_metrics": {
+          "auc": 0.8,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 9,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.6400000000000001,
+          "accuracy": 0.5,
+          "precision": 0.5,
+          "recall": 0.6,
+          "f1_score": 0.5454545454545454
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 10,
+        "best_params": {
+          "hidden_units": 16,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.3
+        },
+        "validation_auc": 0.9375,
+        "test_metrics": {
+          "auc": 0.6,
+          "accuracy": 0.6,
+          "precision": 0.6,
+          "recall": 0.6,
+          "f1_score": 0.6
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 11,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.001,
+          "l2_reg": 0.01,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.88,
+          "accuracy": 0.8,
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1_score": 0.8
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 12,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.01,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.92,
+          "accuracy": 0.9,
+          "precision": 0.8333333333333334,
+          "recall": 1.0,
+          "f1_score": 0.9090909090909091
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 13,
+        "best_params": {
+          "hidden_units": 12,
+          "learning_rate": 0.005,
+          "l2_reg": 0.01,
+          "dropout_rate": 0.3
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8800000000000001,
+          "accuracy": 0.9,
+          "precision": 0.8333333333333334,
+          "recall": 1.0,
+          "f1_score": 0.9090909090909091
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 14,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.01,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8,
+          "accuracy": 0.7,
+          "precision": 0.75,
+          "recall": 0.6,
+          "f1_score": 0.6666666666666666
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 15,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.001,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.6799999999999999,
+          "accuracy": 0.5,
+          "precision": 0.5,
+          "recall": 0.4,
+          "f1_score": 0.4444444444444444
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 16,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.01,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.8,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 17,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.001,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.5
+        },
+        "validation_auc": 0.9375,
+        "test_metrics": {
+          "auc": 0.7200000000000001,
+          "accuracy": 0.7,
+          "precision": 0.6666666666666666,
+          "recall": 0.8,
+          "f1_score": 0.7272727272727273
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 18,
+        "best_params": {
+          "hidden_units": 12,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.88,
+          "accuracy": 0.8,
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1_score": 0.75
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      },
+      {
+        "split": 19,
+        "best_params": {
+          "hidden_units": 8,
+          "learning_rate": 0.0005,
+          "l2_reg": 0.001,
+          "dropout_rate": 0.2
+        },
+        "validation_auc": 1.0,
+        "test_metrics": {
+          "auc": 0.64,
+          "accuracy": 0.5,
+          "precision": 0.5,
+          "recall": 0.6,
+          "f1_score": 0.5454545454545454
+        },
+        "selected_features": [
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ],
+        "feature_names": [
+          "age",
+          "BMI",
+          "parity",
+          "IQCG",
+          "ZNF154",
+          "TSTD1",
+          "GTSF1",
+          "SEPTIN7P11",
+          "NUDT10",
+          "NAA11",
+          "SYCP3",
+          "PSMA8",
+          "LINC00667"
+        ]
+      }
+    ],
+    "feature_stability": {},
+    "feature_importance": []
+  }
+}

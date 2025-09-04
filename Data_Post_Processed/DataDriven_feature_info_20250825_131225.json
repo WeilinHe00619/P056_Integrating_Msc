@@ -1,0 +1,39 @@
+{
+    "all_feature_names": [
+        "age",
+        "BMI",
+        "parity",
+        "B12supplem",
+        "v1p_MultivitTab",
+        "v1p_FolicAcid",
+        "smoking",
+        "ethnicity",
+        "v3n_Gender",
+        "batch_DNA",
+        "BMI_cat",
+        "PLCH2",
+        "TNFRSF14-AS1",
+        "TNFRSF14",
+        "C1orf159",
+        "SCNN1D",
+        "LOC124903823",
+        "UBE2J2",
+        "SLC35E2B",
+        "TMEM52",
+        "LOC100129534"
+    ],
+    "selected_methylation_genes": [
+        "PLCH2",
+        "TNFRSF14-AS1",
+        "TNFRSF14",
+        "C1orf159",
+        "SCNN1D",
+        "LOC124903823",
+        "UBE2J2",
+        "SLC35E2B",
+        "TMEM52",
+        "LOC100129534"
+    ],
+    "n_clinical_features": 11,
+    "n_methylation_features": 10
+}

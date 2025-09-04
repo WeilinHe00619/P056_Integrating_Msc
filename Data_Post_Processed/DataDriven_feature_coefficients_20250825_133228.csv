@@ -1,0 +1,25 @@
+feature,coefficient,abs_coefficient
+numerical__OR13D1,-1.2400399252379748,1.2400399252379748
+numerical__PLLP,0.9167200550540476,0.9167200550540476
+numerical__PTTG1P2,-0.8603907611406628,0.8603907611406628
+numerical__B12supplem,-0.7076104671710675,0.7076104671710675
+numerical__v1p_FolicAcid,-0.5740052590465647,0.5740052590465647
+numerical__HEATR5A-DT,-0.5198008148286867,0.5198008148286867
+numerical__F2R,-0.489652511448305,0.489652511448305
+numerical__USP49,0.45083183328968335,0.45083183328968335
+numerical__RNA5SP130,-0.20794028536666367,0.20794028536666367
+numerical__v1p_MultivitTab,-0.14193131513142448,0.14193131513142448
+numerical__BMI,-0.048988359555420385,0.048988359555420385
+categorical__v3n_Gender_2,0.0,0.0
+categorical__BMI_cat_obese1,0.0,0.0
+categorical__ethnicity_Other,0.0,0.0
+categorical__BMI_cat_obese2,0.0,0.0
+categorical__BMI_cat_obese3,0.0,0.0
+categorical__ethnicity_South Asian,0.0,0.0
+numerical__age,0.0,0.0
+numerical__LOC102725048,0.0,0.0
+numerical__SLF2,0.0,0.0
+numerical__NCRUPAR,0.0,0.0
+numerical__smoking,0.0,0.0
+numerical__parity,0.0,0.0
+categorical__BMI_cat_overweight,0.0,0.0

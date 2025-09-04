@@ -1,0 +1,38 @@
+{
+    "all_feature_names": [
+        "age",
+        "BMI",
+        "parity",
+        "B12supplem",
+        "v1p_MultivitTab",
+        "v1p_FolicAcid",
+        "smoking",
+        "ethnicity",
+        "v3n_Gender",
+        "BMI_cat",
+        "F2R",
+        "NCRUPAR",
+        "HEATR5A-DT",
+        "RNA5SP130",
+        "OR13D1",
+        "USP49",
+        "PTTG1P2",
+        "PLLP",
+        "SLF2",
+        "LOC102725048"
+    ],
+    "selected_methylation_genes": [
+        "F2R",
+        "NCRUPAR",
+        "HEATR5A-DT",
+        "RNA5SP130",
+        "OR13D1",
+        "USP49",
+        "PTTG1P2",
+        "PLLP",
+        "SLF2",
+        "LOC102725048"
+    ],
+    "n_clinical_features": 10,
+    "n_methylation_features": 10
+}

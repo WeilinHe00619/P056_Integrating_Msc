@@ -1,0 +1,1219 @@
+{
+    "n_iterations": 20,
+    "successful_iterations": 20,
+    "feature_stability": {
+        "age": 20,
+        "BMI": 20,
+        "parity": 20,
+        "B12supplem": 20,
+        "v1p_MultivitTab": 20,
+        "v1p_FolicAcid": 20,
+        "smoking": 20,
+        "ethnicity": 20,
+        "v3n_Gender": 20,
+        "BMI_cat": 20,
+        "F2R": 2,
+        "NCRUPAR": 2,
+        "HEATR5A-DT": 3,
+        "RNA5SP130": 4,
+        "OR13D1": 1,
+        "USP49": 1,
+        "PTTG1P2": 2,
+        "PLLP": 1,
+        "SLF2": 6,
+        "LOC102725048": 15,
+        "COL13A1": 2,
+        "KCMF1": 9,
+        "NHP2": 1,
+        "PLA2G5": 3,
+        "RHBDF2": 6,
+        "PTRHD1": 1,
+        "BCL2L15": 1,
+        "ABHD1": 2,
+        "CD226": 4,
+        "IBA57": 1,
+        "SIDT1": 2,
+        "LOC124903230": 1,
+        "FAM20C": 1,
+        "SRRM1": 1,
+        "DDX56": 3,
+        "RNU6-103P": 1,
+        "AFAP1L2": 1,
+        "LOC100132004": 1,
+        "MIR548G": 3,
+        "CGREF1": 1,
+        "LINC02210-CRHR1": 2,
+        "ATPAF1": 1,
+        "NUDC": 2,
+        "IPP": 4,
+        "SULF1": 5,
+        "TESK2": 3,
+        "DPPA3P6": 2,
+        "ARPC1AP4": 3,
+        "GINM1": 4,
+        "LINC02325": 2,
+        "TTLL2": 1,
+        "CCNG1": 6,
+        "LAMA3": 1,
+        "LINC01588": 3,
+        "NIPSNAP2": 1,
+        "EFNB3": 1,
+        "MIR4429": 1,
+        "MPHOSPH9": 1,
+        "DSCAM": 1,
+        "SLC15A3": 1,
+        "LINC02210": 1,
+        "PAK2": 1,
+        "TNFRSF14-AS1": 1,
+        "MICAL1": 3,
+        "ZCCHC10P1": 3,
+        "OTUD7B": 3,
+        "TMT1B": 5,
+        "KLF7-IT1": 2,
+        "KLF7": 2,
+        "SQOR": 1,
+        "SPON2": 1,
+        "STEAP1B": 1,
+        "C2orf74-AS1": 1,
+        "CFAP52": 1,
+        "LOC100507513": 4,
+        "DCAF7": 1,
+        "TENT4A": 1,
+        "ST8SIA2": 1,
+        "RAP1GAP2": 2,
+        "TBC1D5": 2,
+        "MYOM3": 2,
+        "YTHDF2": 2,
+        "LRP6": 2,
+        "SLCO2A1": 1,
+        "LINC03068": 1,
+        "LINC02870": 1,
+        "MTND1P29": 1,
+        "COPZ2": 2,
+        "PLAC9P1": 1,
+        "ZNF208": 1,
+        "SDF2L1": 1,
+        "INO80E": 1,
+        "KIF17": 1,
+        "HOXB1": 1,
+        "CAPZA2": 1,
+        "LOC105371998": 1,
+        "PCK1": 1,
+        "MYADML": 1,
+        "MIR598": 1,
+        "SHISA3": 1,
+        "LOC105374428": 1,
+        "SLC5A12": 1,
+        "LOC105377503": 1,
+        "SLC15A1": 2,
+        "RNU6-39P": 1,
+        "OPTN": 1,
+        "THAP3P1": 1,
+        "RPL5P25": 1,
+        "RNU6-1162P": 1,
+        "MTND6P24": 1,
+        "CHST5": 1
+    },
+    "stable_features_ranking": [
+        [
+            "age",
+            20
+        ],
+        [
+            "BMI",
+            20
+        ],
+        [
+            "parity",
+            20
+        ],
+        [
+            "B12supplem",
+            20
+        ],
+        [
+            "v1p_MultivitTab",
+            20
+        ],
+        [
+            "v1p_FolicAcid",
+            20
+        ],
+        [
+            "smoking",
+            20
+        ],
+        [
+            "ethnicity",
+            20
+        ],
+        [
+            "v3n_Gender",
+            20
+        ],
+        [
+            "BMI_cat",
+            20
+        ],
+        [
+            "LOC102725048",
+            15
+        ],
+        [
+            "KCMF1",
+            9
+        ],
+        [
+            "SLF2",
+            6
+        ],
+        [
+            "RHBDF2",
+            6
+        ],
+        [
+            "CCNG1",
+            6
+        ],
+        [
+            "SULF1",
+            5
+        ],
+        [
+            "TMT1B",
+            5
+        ],
+        [
+            "RNA5SP130",
+            4
+        ],
+        [
+            "CD226",
+            4
+        ],
+        [
+            "IPP",
+            4
+        ],
+        [
+            "GINM1",
+            4
+        ],
+        [
+            "LOC100507513",
+            4
+        ],
+        [
+            "HEATR5A-DT",
+            3
+        ],
+        [
+            "PLA2G5",
+            3
+        ],
+        [
+            "DDX56",
+            3
+        ],
+        [
+            "MIR548G",
+            3
+        ],
+        [
+            "TESK2",
+            3
+        ],
+        [
+            "ARPC1AP4",
+            3
+        ],
+        [
+            "LINC01588",
+            3
+        ],
+        [
+            "MICAL1",
+            3
+        ],
+        [
+            "ZCCHC10P1",
+            3
+        ],
+        [
+            "OTUD7B",
+            3
+        ],
+        [
+            "F2R",
+            2
+        ],
+        [
+            "NCRUPAR",
+            2
+        ],
+        [
+            "PTTG1P2",
+            2
+        ],
+        [
+            "COL13A1",
+            2
+        ],
+        [
+            "ABHD1",
+            2
+        ],
+        [
+            "SIDT1",
+            2
+        ],
+        [
+            "LINC02210-CRHR1",
+            2
+        ],
+        [
+            "NUDC",
+            2
+        ],
+        [
+            "DPPA3P6",
+            2
+        ],
+        [
+            "LINC02325",
+            2
+        ],
+        [
+            "KLF7-IT1",
+            2
+        ],
+        [
+            "KLF7",
+            2
+        ],
+        [
+            "RAP1GAP2",
+            2
+        ],
+        [
+            "TBC1D5",
+            2
+        ],
+        [
+            "MYOM3",
+            2
+        ],
+        [
+            "YTHDF2",
+            2
+        ],
+        [
+            "LRP6",
+            2
+        ],
+        [
+            "COPZ2",
+            2
+        ],
+        [
+            "SLC15A1",
+            2
+        ],
+        [
+            "OR13D1",
+            1
+        ],
+        [
+            "USP49",
+            1
+        ],
+        [
+            "PLLP",
+            1
+        ],
+        [
+            "NHP2",
+            1
+        ],
+        [
+            "PTRHD1",
+            1
+        ],
+        [
+            "BCL2L15",
+            1
+        ],
+        [
+            "IBA57",
+            1
+        ],
+        [
+            "LOC124903230",
+            1
+        ],
+        [
+            "FAM20C",
+            1
+        ],
+        [
+            "SRRM1",
+            1
+        ],
+        [
+            "RNU6-103P",
+            1
+        ],
+        [
+            "AFAP1L2",
+            1
+        ],
+        [
+            "LOC100132004",
+            1
+        ],
+        [
+            "CGREF1",
+            1
+        ],
+        [
+            "ATPAF1",
+            1
+        ],
+        [
+            "TTLL2",
+            1
+        ],
+        [
+            "LAMA3",
+            1
+        ],
+        [
+            "NIPSNAP2",
+            1
+        ],
+        [
+            "EFNB3",
+            1
+        ],
+        [
+            "MIR4429",
+            1
+        ],
+        [
+            "MPHOSPH9",
+            1
+        ],
+        [
+            "DSCAM",
+            1
+        ],
+        [
+            "SLC15A3",
+            1
+        ],
+        [
+            "LINC02210",
+            1
+        ],
+        [
+            "PAK2",
+            1
+        ],
+        [
+            "TNFRSF14-AS1",
+            1
+        ],
+        [
+            "SQOR",
+            1
+        ],
+        [
+            "SPON2",
+            1
+        ],
+        [
+            "STEAP1B",
+            1
+        ],
+        [
+            "C2orf74-AS1",
+            1
+        ],
+        [
+            "CFAP52",
+            1
+        ],
+        [
+            "DCAF7",
+            1
+        ],
+        [
+            "TENT4A",
+            1
+        ],
+        [
+            "ST8SIA2",
+            1
+        ],
+        [
+            "SLCO2A1",
+            1
+        ],
+        [
+            "LINC03068",
+            1
+        ],
+        [
+            "LINC02870",
+            1
+        ],
+        [
+            "MTND1P29",
+            1
+        ],
+        [
+            "PLAC9P1",
+            1
+        ],
+        [
+            "ZNF208",
+            1
+        ],
+        [
+            "SDF2L1",
+            1
+        ],
+        [
+            "INO80E",
+            1
+        ],
+        [
+            "KIF17",
+            1
+        ],
+        [
+            "HOXB1",
+            1
+        ],
+        [
+            "CAPZA2",
+            1
+        ],
+        [
+            "LOC105371998",
+            1
+        ],
+        [
+            "PCK1",
+            1
+        ],
+        [
+            "MYADML",
+            1
+        ],
+        [
+            "MIR598",
+            1
+        ],
+        [
+            "SHISA3",
+            1
+        ],
+        [
+            "LOC105374428",
+            1
+        ],
+        [
+            "SLC5A12",
+            1
+        ],
+        [
+            "LOC105377503",
+            1
+        ],
+        [
+            "RNU6-39P",
+            1
+        ],
+        [
+            "OPTN",
+            1
+        ],
+        [
+            "THAP3P1",
+            1
+        ],
+        [
+            "RPL5P25",
+            1
+        ],
+        [
+            "RNU6-1162P",
+            1
+        ],
+        [
+            "MTND6P24",
+            1
+        ],
+        [
+            "CHST5",
+            1
+        ]
+    ],
+    "performance_stats": {
+        "mean_auc": 0.6200000000000001,
+        "std_auc": 0.19120669444347393,
+        "mean_accuracy": 0.595,
+        "auc_range": [
+            0.31999999999999995,
+            0.92
+        ]
+    },
+    "iteration_details": [
+        {
+            "iteration": 1,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "F2R",
+                "NCRUPAR",
+                "HEATR5A-DT",
+                "RNA5SP130",
+                "OR13D1",
+                "USP49",
+                "PTTG1P2",
+                "PLLP",
+                "SLF2",
+                "LOC102725048"
+            ],
+            "performance": {
+                "auc": 0.31999999999999995,
+                "accuracy": 0.4,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 2,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "COL13A1",
+                "KCMF1",
+                "RNA5SP130",
+                "NHP2",
+                "LOC102725048",
+                "PLA2G5",
+                "RHBDF2",
+                "PTRHD1",
+                "BCL2L15",
+                "ABHD1"
+            ],
+            "performance": {
+                "auc": 0.32,
+                "accuracy": 0.5,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 3,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "CD226",
+                "IBA57",
+                "SIDT1",
+                "LOC124903230",
+                "SLF2",
+                "FAM20C",
+                "SRRM1",
+                "DDX56",
+                "LOC102725048",
+                "RNU6-103P"
+            ],
+            "performance": {
+                "auc": 0.48,
+                "accuracy": 0.5,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 4,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "ABHD1",
+                "CD226",
+                "SIDT1",
+                "AFAP1L2",
+                "LOC100132004",
+                "HEATR5A-DT",
+                "KCMF1",
+                "MIR548G",
+                "CGREF1",
+                "LINC02210-CRHR1"
+            ],
+            "performance": {
+                "auc": 0.8400000000000001,
+                "accuracy": 0.5,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 5,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "SLF2",
+                "ATPAF1",
+                "LOC102725048",
+                "NUDC",
+                "IPP",
+                "SULF1",
+                "TESK2",
+                "DPPA3P6",
+                "ARPC1AP4",
+                "GINM1"
+            ],
+            "performance": {
+                "auc": 0.76,
+                "accuracy": 0.7,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 6,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "LINC02325",
+                "TTLL2",
+                "LOC102725048",
+                "PTTG1P2",
+                "RNA5SP130",
+                "CCNG1",
+                "LAMA3",
+                "LINC01588",
+                "NIPSNAP2",
+                "EFNB3"
+            ],
+            "performance": {
+                "auc": 0.48,
+                "accuracy": 0.5,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 7,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "MIR4429",
+                "LINC02210-CRHR1",
+                "MPHOSPH9",
+                "DSCAM",
+                "SLC15A3",
+                "KCMF1",
+                "LINC02210",
+                "LOC102725048",
+                "PAK2",
+                "TNFRSF14-AS1"
+            ],
+            "performance": {
+                "auc": 0.56,
+                "accuracy": 0.6,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 8,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "F2R",
+                "NCRUPAR",
+                "DPPA3P6",
+                "MICAL1",
+                "ZCCHC10P1",
+                "OTUD7B",
+                "RHBDF2",
+                "LINC01588",
+                "KCMF1",
+                "PLA2G5"
+            ],
+            "performance": {
+                "auc": 0.92,
+                "accuracy": 0.9,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 9,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "TMT1B",
+                "KLF7-IT1",
+                "KLF7",
+                "SQOR",
+                "MIR548G",
+                "SLF2",
+                "SPON2",
+                "STEAP1B",
+                "C2orf74-AS1",
+                "LOC102725048"
+            ],
+            "performance": {
+                "auc": 0.84,
+                "accuracy": 0.7,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 10,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "CFAP52",
+                "LINC02325",
+                "SLF2",
+                "ARPC1AP4",
+                "LOC100507513",
+                "DCAF7",
+                "GINM1",
+                "TENT4A",
+                "LOC102725048",
+                "CCNG1"
+            ],
+            "performance": {
+                "auc": 0.68,
+                "accuracy": 0.5,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 11,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "HEATR5A-DT",
+                "SLF2",
+                "SULF1",
+                "MICAL1",
+                "KCMF1",
+                "ST8SIA2",
+                "LOC102725048",
+                "RHBDF2",
+                "RAP1GAP2",
+                "TBC1D5"
+            ],
+            "performance": {
+                "auc": 0.8400000000000001,
+                "accuracy": 0.7,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 12,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "LOC102725048",
+                "RAP1GAP2",
+                "OTUD7B",
+                "RHBDF2",
+                "KCMF1",
+                "PLA2G5",
+                "LOC100507513",
+                "MYOM3",
+                "YTHDF2",
+                "LRP6"
+            ],
+            "performance": {
+                "auc": 0.6400000000000001,
+                "accuracy": 0.7,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 13,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "LOC102725048",
+                "TMT1B",
+                "SLCO2A1",
+                "LINC03068",
+                "LINC02870",
+                "MTND1P29",
+                "CCNG1",
+                "COPZ2",
+                "LOC100507513",
+                "PLAC9P1"
+            ],
+            "performance": {
+                "auc": 0.52,
+                "accuracy": 0.4,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 14,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "MICAL1",
+                "DDX56",
+                "OTUD7B",
+                "ZNF208",
+                "SDF2L1",
+                "KCMF1",
+                "INO80E",
+                "SULF1",
+                "LRP6",
+                "CCNG1"
+            ],
+            "performance": {
+                "auc": 0.76,
+                "accuracy": 0.8,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 15,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "RHBDF2",
+                "IPP",
+                "KCMF1",
+                "NUDC",
+                "KIF17",
+                "ZCCHC10P1",
+                "CD226",
+                "HOXB1",
+                "LINC01588",
+                "COL13A1"
+            ],
+            "performance": {
+                "auc": 0.4000000000000001,
+                "accuracy": 0.4,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 16,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "LOC100507513",
+                "TMT1B",
+                "CAPZA2",
+                "MYOM3",
+                "TESK2",
+                "LOC105371998",
+                "MIR548G",
+                "GINM1",
+                "LOC102725048",
+                "CCNG1"
+            ],
+            "performance": {
+                "auc": 0.31999999999999995,
+                "accuracy": 0.3,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 17,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "PCK1",
+                "LOC102725048",
+                "TMT1B",
+                "YTHDF2",
+                "MYADML",
+                "MIR598",
+                "KCMF1",
+                "IPP",
+                "SHISA3",
+                "LOC105374428"
+            ],
+            "performance": {
+                "auc": 0.6799999999999999,
+                "accuracy": 0.6,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 18,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "SLC5A12",
+                "LOC102725048",
+                "LOC105377503",
+                "SLC15A1",
+                "RNU6-39P",
+                "OPTN",
+                "RNA5SP130",
+                "SULF1",
+                "KLF7-IT1",
+                "KLF7"
+            ],
+            "performance": {
+                "auc": 0.6399999999999999,
+                "accuracy": 0.7,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 19,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "THAP3P1",
+                "COPZ2",
+                "SLC15A1",
+                "DDX56",
+                "CD226",
+                "TMT1B",
+                "ZCCHC10P1",
+                "TBC1D5",
+                "RHBDF2",
+                "SULF1"
+            ],
+            "performance": {
+                "auc": 0.88,
+                "accuracy": 0.9,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        },
+        {
+            "iteration": 20,
+            "selected_features": [
+                "age",
+                "BMI",
+                "parity",
+                "B12supplem",
+                "v1p_MultivitTab",
+                "v1p_FolicAcid",
+                "smoking",
+                "ethnicity",
+                "v3n_Gender",
+                "BMI_cat",
+                "IPP",
+                "RPL5P25",
+                "RNU6-1162P",
+                "ARPC1AP4",
+                "TESK2",
+                "LOC102725048",
+                "GINM1",
+                "MTND6P24",
+                "CCNG1",
+                "CHST5"
+            ],
+            "performance": {
+                "auc": 0.52,
+                "accuracy": 0.6,
+                "n_features": 20
+            },
+            "n_train": 40,
+            "n_test": 10
+        }
+    ],
+    "stability_insights": {
+        "highly_stable_features": 11,
+        "moderately_stable_features": 11,
+        "total_unique_features": 111
+    }
+}

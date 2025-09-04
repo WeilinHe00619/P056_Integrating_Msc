@@ -1,0 +1,36 @@
+{
+    "auc": 0.7142857142857143,
+    "accuracy": 0.6153846153846154,
+    "precision": 0.5714285714285714,
+    "recall": 0.6666666666666666,
+    "confusion_matrix": [
+        [
+            4,
+            3
+        ],
+        [
+            2,
+            4
+        ]
+    ],
+    "test_samples": 13,
+    "features_used": 17,
+    "clinical_features": 7,
+    "regulatory_features": 10,
+    "target_genes_used": [
+        "IQCG",
+        "ZNF154",
+        "TSTD1",
+        "GTSF1",
+        "SEPTIN7P11",
+        "NUDT10",
+        "NAA11",
+        "SYCP3",
+        "PSMA8",
+        "LINC00667"
+    ],
+    "target_genes_coverage": "10/10",
+    "model_type": "ANN_CpG_mRNA_regulatory_analysis",
+    "training_stable": true,
+    "regulatory_focus": true
+}

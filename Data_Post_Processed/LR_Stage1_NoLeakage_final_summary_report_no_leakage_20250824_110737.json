@@ -1,0 +1,95 @@
+{
+    "pipeline_info": {
+        "model_type": "Logistic Regression",
+        "version": "No Data Leakage",
+        "start_time": "2025-08-24T11:07:37.243294",
+        "end_time": "2025-08-24T11:07:45.914338",
+        "duration_seconds": 8.671044,
+        "success": true,
+        "data_leakage_prevented": true,
+        "b12_mol_excluded": true,
+        "feature_scaling_applied": true
+    },
+    "key_metrics": {
+        "AUC": 0.9047619047619048,
+        "Accuracy": 0.7692307692307693,
+        "Precision": 0.7142857142857143,
+        "Recall_Sensitivity": 0.8333333333333334
+    },
+    "data_info": {
+        "total_samples": 50,
+        "total_features": 17,
+        "train_samples": 29,
+        "val_samples": 8,
+        "test_samples": 13,
+        "clinical_features": 7,
+        "methylation_features": 10
+    },
+    "model_performance": {
+        "auc_roc": 0.9047619047619048,
+        "accuracy": 0.7692307692307693,
+        "f1_score": 0.7692307692307693,
+        "precision": 0.7142857142857143,
+        "recall_sensitivity": 0.8333333333333334,
+        "specificity": 0.7142857142857143
+    },
+    "top_features": [
+        {
+            "feature": "MIR140",
+            "coefficient": -0.009284580090941711,
+            "abs_coefficient": 0.009284580090941711
+        },
+        {
+            "feature": "PLLP",
+            "coefficient": 0.009212407989417854,
+            "abs_coefficient": 0.009212407989417854
+        },
+        {
+            "feature": "F2R",
+            "coefficient": -0.009093186515075341,
+            "abs_coefficient": 0.009093186515075341
+        },
+        {
+            "feature": "NCRUPAR",
+            "coefficient": -0.009093186515075341,
+            "abs_coefficient": 0.009093186515075341
+        },
+        {
+            "feature": "FEM1B",
+            "coefficient": 0.008829284952348113,
+            "abs_coefficient": 0.008829284952348113
+        },
+        {
+            "feature": "LOC107984227",
+            "coefficient": 0.00879698947725333,
+            "abs_coefficient": 0.00879698947725333
+        },
+        {
+            "feature": "BMI",
+            "coefficient": -0.008781017576982502,
+            "abs_coefficient": 0.008781017576982502
+        },
+        {
+            "feature": "SPON1",
+            "coefficient": -0.008535468733483296,
+            "abs_coefficient": 0.008535468733483296
+        },
+        {
+            "feature": "OGDHL",
+            "coefficient": -0.00843010675268038,
+            "abs_coefficient": 0.00843010675268038
+        },
+        {
+            "feature": "ING4",
+            "coefficient": -0.008425209034530994,
+            "abs_coefficient": 0.008425209034530994
+        }
+    ],
+    "feature_selection_method": "Statistical testing on training data only",
+    "model_parameters": {
+        "C": 0.001,
+        "penalty": "l2",
+        "solver": "liblinear",
+        "class_weight": "balanced"
+    }
+}

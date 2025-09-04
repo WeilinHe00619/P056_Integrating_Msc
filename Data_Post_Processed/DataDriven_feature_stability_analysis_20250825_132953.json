@@ -1,0 +1,69 @@
+{
+    "feature_stability": {
+        "PTTG1P2": 5,
+        "OR13D1": 5,
+        "SLF2": 5,
+        "F2R": 5,
+        "NCRUPAR": 5,
+        "HEATR5A-DT": 5,
+        "RNA5SP130": 5,
+        "LOC102725048": 5,
+        "PLLP": 5,
+        "USP49": 5
+    },
+    "fold_performances": [
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN
+    ],
+    "stable_features_ranking": [
+        [
+            "PTTG1P2",
+            5
+        ],
+        [
+            "OR13D1",
+            5
+        ],
+        [
+            "SLF2",
+            5
+        ],
+        [
+            "F2R",
+            5
+        ],
+        [
+            "NCRUPAR",
+            5
+        ],
+        [
+            "HEATR5A-DT",
+            5
+        ],
+        [
+            "RNA5SP130",
+            5
+        ],
+        [
+            "LOC102725048",
+            5
+        ],
+        [
+            "PLLP",
+            5
+        ],
+        [
+            "USP49",
+            5
+        ]
+    ],
+    "cv_performance_stats": {
+        "mean_auc": null,
+        "std_auc": null,
+        "min_auc": null,
+        "max_auc": null
+    }
+}

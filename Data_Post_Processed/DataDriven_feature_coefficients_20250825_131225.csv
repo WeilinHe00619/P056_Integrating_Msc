@@ -1,0 +1,27 @@
+feature,coefficient,abs_coefficient
+numerical__C1orf159,-0.9827945844853315,0.9827945844853315
+numerical__TNFRSF14,-0.9326895909838193,0.9326895909838193
+numerical__B12supplem,-0.9192883638104432,0.9192883638104432
+numerical__BMI,-0.8740329836628713,0.8740329836628713
+numerical__LOC124903823,0.6864274467815064,0.6864274467815064
+categorical__batch_DNA_C,0.4820886502703078,0.4820886502703078
+numerical__age,0.3210067992769699,0.3210067992769699
+numerical__UBE2J2,-0.13800405797734355,0.13800405797734355
+numerical__smoking,0.10497123514742882,0.10497123514742882
+numerical__SLC35E2B,-0.035498304042688264,0.035498304042688264
+numerical__TNFRSF14-AS1,0.0,0.0
+categorical__ethnicity_South Asian,0.0,0.0
+categorical__BMI_cat_obese3,0.0,0.0
+categorical__BMI_cat_obese2,0.0,0.0
+categorical__BMI_cat_obese1,0.0,0.0
+numerical__parity,0.0,0.0
+categorical__batch_DNA_B,0.0,0.0
+categorical__v3n_Gender_2,0.0,0.0
+categorical__ethnicity_Other,0.0,0.0
+numerical__PLCH2,0.0,0.0
+numerical__LOC100129534,0.0,0.0
+numerical__TMEM52,0.0,0.0
+numerical__v1p_MultivitTab,0.0,0.0
+numerical__v1p_FolicAcid,0.0,0.0
+numerical__SCNN1D,0.0,0.0
+categorical__BMI_cat_overweight,0.0,0.0
