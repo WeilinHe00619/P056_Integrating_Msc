@@ -25,16 +25,9 @@ The project employs advanced statistical modeling, biological network reconstruc
 ```
 P056_Integrating_Msc/
 │
-├── data/                    # Raw and processed multi-omics and clinical datasets
-├── scripts/                 # Core analysis pipeline
-│   ├── 1_preprocessing/     # Quality control, normalization, and ID mapping
-│   ├── 2_differential/      # Differential analysis (DEGs, DMRs, DEmiRs)
-│   ├── 3_network/           # Regulatory network construction and analysis
-│   ├── 4_modeling/          # Machine learning model training and evaluation
-│   └── 5_interpretation/    # Feature interpretation and pathway enrichment
-├── results/                 # Analysis outputs: plots, tables, model results
-├── figures/                 # Publication-ready figures and visualizations
-├── requirements.txt         # Python package dependencies
+├── Data_Post_Processed/     # Processed multi-omics and clinical datasets
+├── Data_Preprocessing_Code/ # Quality control, normalization, and analysis scripts
+├── Figure/                  # Publication-ready figures and visualizations
 └── README.md               # Project documentation
 ```
 
